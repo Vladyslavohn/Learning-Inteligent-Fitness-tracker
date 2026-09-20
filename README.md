@@ -6,4 +6,4 @@ Smart workout tracker with AI-driven progress analysis
 - **Oliinyk Bohdan** ([@Bohdan](https://github.com/xoliinykb-stack))  — *Machine Learning / CV Engineer* (Pose estimation algorithms, AI model integration, OpenCV)
 - **Bohodar Pereviznyk** ([@BohodarP](https://github.com/Darr2010)) — *Frontend / Mobile Developer* (User interface, client-side logic, user experience)
 - **Daniil Paramonenko** ([@daniilparamonenko](https://github.com/daniilparamonenko)) — *Researcher* (Literature review, methodology analysis, academic research, dataset evaluation)
-- **[Name 5]** — *Project Manager & Technical Writer* (Task tracking, academic documentation, presentations)
+- **Ivan Pankevych** ([@Pankevych](https://github.com/PabloExc)) — *Project Manager & Technical Writer* (Task tracking, academic documentation, presentations)
