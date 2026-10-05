@@ -1,4 +1,4 @@
-# Learning Intelligent Fitness Tracker
+# Local Instructors & Fitness Trainers
 An AI-powered workout monitoring system designed for real-time motion analysis and adaptive progress tracking.
 
 ## 👥 Team
