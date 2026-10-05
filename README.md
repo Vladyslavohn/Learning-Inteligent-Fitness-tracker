@@ -1,5 +1,5 @@
 # Local Instructors & Fitness Trainers
-An AI-powered workout monitoring system designed for real-time motion analysis and adaptive progress tracking.
+An AI-driven platform designed for fitness trainers, providing real-time biomechanical analysis and remote client progress tracking.
 
 ## 👥 Team
 - **Vladyslav Ohnivko** ([@Vladyslavohn](https://github.com/Vladyslavohn)) — *Backend Developer & DevOps*  
